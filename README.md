@@ -31,8 +31,6 @@ https://twitter.com/ab25cq twitter
 
 https://qiita.com/ab25cq Qiita
 
-https://www.facebook.com/profile.php?id=100005394647557 Facebook
-
 連絡先
 
 ab25cq@icloud.comに連絡ください。
