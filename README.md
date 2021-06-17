@@ -22,6 +22,8 @@ TVは掛かっていたら見る派でそれほどみません。ニュースく
 
 音楽は好きで色々聞いてます。The BEATLES, NIRVANA, BLUR, MUSE, Coldplay, スピッツ、ゲスの極み乙女、ももいろクローバーZあたりが特に好きです。
 
+ゲームは子供の頃はオタクと言っていいほど熱中しましたが最近はあんまりです。漫画、小説も読んだり読まなかったりです。
+
 旅行はあまりいけませんが大好きです。美しい景色を見ると、心が洗われます。新婚旅行は別府に行きました。いい思い出です。
 
 趣味
@@ -41,98 +43,6 @@ https://qiita.com/ab25cq Qiita ブログです。
 連絡先
 
 ab25cq@icloud.comに連絡ください。
-
-大学時代の英語のレジュメ
-
-About Me
-
-My name is Daisuke Minato and I'm a Junior college student at Aizu University, majoring in Computer Science.I was born in Kyoto city in 1978, and now live in Aizuwakamatsu city, which locates in the northeast area of Japan. I have not graduated from high school and studied Mathmatics, English, and chemistry by myself for the University Entrance Examination.
-
-I like to listen to music, especially The Beatles and NIRVANA. Other my interests are traveling, cooking, going swimming, watching soccer matches and making computer software. I've written source code since I was thirteen years old. However, I don't have much knowledge of computer science because I had done only something interesting to me; therefore, I am broadening my knowlegde at this university now.
-
-Also I've been studying English in E-talk to communicate with other countries people. If you want Internet keypal, send e-mail to me.
-
-
-narrative
-
-When I was a high school student and lived in Kyoto city, I visited my home, that was located in Kameoka city, and stayed some days.
-
-One day, I and my little sister heard a kitten's mewing. We searched for it, and then I found a black kitten in our underground garage. It was grasped by a gap of two tires and was very tired. We took it to our home and give milk to it. After a while, gradually the kitten became fine. 
-
-That night, I and my little sister explained the happening to our parents, and persuaded them to keep the kitten.At first, our parents said "No" because my family had kept two cats already; however, my sister's strongly persuasion made our parents say "Yes". After that, I came back my apartment in Kyoto city.
-
-Some days after, as soon as I got home, the phone rang. It was from my sister, and she said "The kitten was dead". Although the season is summor, the morning cold took a life from the kitten. I thought I ought to have took the kitten to my apartment.
-
-As soon as I got free time, I visited my home to bury the kitten. The kitten's body became very hard and cold, and smelled milk. We burried it in our garden.
-
-If you keep a kitten, it needs to your fine attention.
-
-
-Short-time sleep in Genius
-
-There are many genius with short-time sleep. One of them is Napoleon. He devoted himself to Strategy all the day and he had only three hour sleep. He said "Three hour sleep is Industrious, four houar sleep is common sense, five housr sleep is lazyness."
-
-Thomas A. Edison is known to short-time sleep, too. If he concentrate on his research, he often had awaken for two or three days. He said "Sleep is waste of time."
-
-Today, where is short-time sleep genius? It is Dr. Nakamatsu. Do you know him? He appears in TV programs as saying light joke man, but actually he is the most famous Japanese person over the world. Number of his invention is more than 2,400, and he invented floppy disk drive. He has four hour sleep from a child's time and he said "Human become foolish if he or she sleeps for six hours or more."
-
-In 20 centuries, there is a person who changed the world very much. That is Bill Gates. He is also short-time sleep man. When he is a student, he established Micro soft and worked hard. He was called sleepless Bill. Because of his short-time sleep, he can concentrate on programing for long time and software makes him a millionaire.
-It may be a shortcut to success to reduece sleep time as much as possible like dr. Nakamatsu and Bill gates for getting concentrate on problems. I think it's true, but unhealthy. I would like to sleep much tonight.
-
-"Programing"
-
-I've written a lot of programing code since I was thirteen years old for my hobby. Why is it interesting?
-
-First reason is that I take big pleasure when software begin to work, especially, it scale becomes larger. The moment is unforgetable. If you taste it one time, you may fall victim to charms. Off course, there is a lot of work to taste the moment. For example, learning a theory, making a plan, and implementation. In these tasks, implementation takes a lot of time. Many problem appear one after another, and a programer should find solution with his or her wisdom. At last program begin to work and I felt pleasure deeply.
-
-Second reason is that software is unlimited. Only programmer's skill or imagenation decide the limits. For example, Marc Andreesen made a web browser called Mosaic. Before it apear, noone can imagine software like it. If you have a programing skill, you can create anything you want. 
-
-Third reason is that new thechnologies apears one after another; therefore programers have never been tire of it. As you know, development in computer world is often called "dog" or "rat" year. 
-
-However, programing has dangerous point. It is so interesting that you forget time, place, and job; therefore I recommend you do it having a plan. If you pay attention its dangerous point, it gives a wonderful moment. 
-
-reasons
-1) What have you focused on for your campus life? (tell us your "DORYOKU" story)
-
-I have focused following two things.
-
-One is communication with foreign people in English. English is not easy to master; therefore I'd like to learn it step by step, and I take part in some events using English to prevent myself from lazeness.
-
-The other is implementation of computer languages. I'd like to have made some applications until graduation.
-2) Why did you focus on it? (tell us your motivation)
-
-If I learn programming only, I don't have to come to this university, and my view become narrow. A programmer who is good at communication with someone even thought in not native language is very usable anywhere. I'd like to drive for that kind of person.
-
-3) What did you learn from the experience?
-
-Until now, I learned importance of trying something from E-talk, lectures, part-time job, and so forth. I'd like to try many things in this university.
-
-
-Resume
-
-Education
-
-The Department of Computer Software.
-School of Computer Science and Engineering.
-University of Aizu
-Interests
-
-Implementation of Computer Languages
-Technical Skills
-
-Languages: C, C++, INTEL 80x86 Processor Family assembler
-Operating Systems: Unix(Solaris, Linux), WindowsNT
-Employment Experience
-
-Junior high-school tutor
-Memberships
-
-Mental Friends Circle, University of Aizu(Octorber, 2002 -present)
-Dolce, University of Aizu(January, 2003 -present)
-gcc, University of Aizu(April, 2003 -present)
-Squirrel, Aizu University(May, 2003 -present)
-News paper circle, Aizu University(July, 2003 -present)
-a chorus circle, Aizu University(July, 2003 -present)
 
 つぶやき
 
@@ -307,3 +217,95 @@ WORK FOR FREEDOM.そして、毒ガス室行き（喫煙所行き）
 52. 川柳
 
 人とナリ、人と成りしは、人隣
+
+大学時代の英語のレジュメ
+
+About Me
+
+My name is Daisuke Minato and I'm a Junior college student at Aizu University, majoring in Computer Science.I was born in Kyoto city in 1978, and now live in Aizuwakamatsu city, which locates in the northeast area of Japan. I have not graduated from high school and studied Mathmatics, English, and chemistry by myself for the University Entrance Examination.
+
+I like to listen to music, especially The Beatles and NIRVANA. Other my interests are traveling, cooking, going swimming, watching soccer matches and making computer software. I've written source code since I was thirteen years old. However, I don't have much knowledge of computer science because I had done only something interesting to me; therefore, I am broadening my knowlegde at this university now.
+
+Also I've been studying English in E-talk to communicate with other countries people. If you want Internet keypal, send e-mail to me.
+
+
+narrative
+
+When I was a high school student and lived in Kyoto city, I visited my home, that was located in Kameoka city, and stayed some days.
+
+One day, I and my little sister heard a kitten's mewing. We searched for it, and then I found a black kitten in our underground garage. It was grasped by a gap of two tires and was very tired. We took it to our home and give milk to it. After a while, gradually the kitten became fine. 
+
+That night, I and my little sister explained the happening to our parents, and persuaded them to keep the kitten.At first, our parents said "No" because my family had kept two cats already; however, my sister's strongly persuasion made our parents say "Yes". After that, I came back my apartment in Kyoto city.
+
+Some days after, as soon as I got home, the phone rang. It was from my sister, and she said "The kitten was dead". Although the season is summor, the morning cold took a life from the kitten. I thought I ought to have took the kitten to my apartment.
+
+As soon as I got free time, I visited my home to bury the kitten. The kitten's body became very hard and cold, and smelled milk. We burried it in our garden.
+
+If you keep a kitten, it needs to your fine attention.
+
+
+Short-time sleep in Genius
+
+There are many genius with short-time sleep. One of them is Napoleon. He devoted himself to Strategy all the day and he had only three hour sleep. He said "Three hour sleep is Industrious, four houar sleep is common sense, five housr sleep is lazyness."
+
+Thomas A. Edison is known to short-time sleep, too. If he concentrate on his research, he often had awaken for two or three days. He said "Sleep is waste of time."
+
+Today, where is short-time sleep genius? It is Dr. Nakamatsu. Do you know him? He appears in TV programs as saying light joke man, but actually he is the most famous Japanese person over the world. Number of his invention is more than 2,400, and he invented floppy disk drive. He has four hour sleep from a child's time and he said "Human become foolish if he or she sleeps for six hours or more."
+
+In 20 centuries, there is a person who changed the world very much. That is Bill Gates. He is also short-time sleep man. When he is a student, he established Micro soft and worked hard. He was called sleepless Bill. Because of his short-time sleep, he can concentrate on programing for long time and software makes him a millionaire.
+It may be a shortcut to success to reduece sleep time as much as possible like dr. Nakamatsu and Bill gates for getting concentrate on problems. I think it's true, but unhealthy. I would like to sleep much tonight.
+
+"Programing"
+
+I've written a lot of programing code since I was thirteen years old for my hobby. Why is it interesting?
+
+First reason is that I take big pleasure when software begin to work, especially, it scale becomes larger. The moment is unforgetable. If you taste it one time, you may fall victim to charms. Off course, there is a lot of work to taste the moment. For example, learning a theory, making a plan, and implementation. In these tasks, implementation takes a lot of time. Many problem appear one after another, and a programer should find solution with his or her wisdom. At last program begin to work and I felt pleasure deeply.
+
+Second reason is that software is unlimited. Only programmer's skill or imagenation decide the limits. For example, Marc Andreesen made a web browser called Mosaic. Before it apear, noone can imagine software like it. If you have a programing skill, you can create anything you want. 
+
+Third reason is that new thechnologies apears one after another; therefore programers have never been tire of it. As you know, development in computer world is often called "dog" or "rat" year. 
+
+However, programing has dangerous point. It is so interesting that you forget time, place, and job; therefore I recommend you do it having a plan. If you pay attention its dangerous point, it gives a wonderful moment. 
+
+reasons
+1) What have you focused on for your campus life? (tell us your "DORYOKU" story)
+
+I have focused following two things.
+
+One is communication with foreign people in English. English is not easy to master; therefore I'd like to learn it step by step, and I take part in some events using English to prevent myself from lazeness.
+
+The other is implementation of computer languages. I'd like to have made some applications until graduation.
+2) Why did you focus on it? (tell us your motivation)
+
+If I learn programming only, I don't have to come to this university, and my view become narrow. A programmer who is good at communication with someone even thought in not native language is very usable anywhere. I'd like to drive for that kind of person.
+
+3) What did you learn from the experience?
+
+Until now, I learned importance of trying something from E-talk, lectures, part-time job, and so forth. I'd like to try many things in this university.
+
+
+Resume
+
+Education
+
+The Department of Computer Software.
+School of Computer Science and Engineering.
+University of Aizu
+Interests
+
+Implementation of Computer Languages
+Technical Skills
+
+Languages: C, C++, INTEL 80x86 Processor Family assembler
+Operating Systems: Unix(Solaris, Linux), WindowsNT
+Employment Experience
+
+Junior high-school tutor
+Memberships
+
+Mental Friends Circle, University of Aizu(Octorber, 2002 -present)
+Dolce, University of Aizu(January, 2003 -present)
+gcc, University of Aizu(April, 2003 -present)
+Squirrel, Aizu University(May, 2003 -present)
+News paper circle, Aizu University(July, 2003 -present)
+a chorus circle, Aizu University(July, 2003 -present)
