@@ -59,7 +59,7 @@ https://github.com/ab25cq 趣味のコーディングの成果物をアップロ
 
 https://www.facebook.com/profile.php?id=100005394647557 生活全般を書いてます。
 
-https://https://www.instagram.com/ab25cq/ 生活全般です。
+https://www.instagram.com/ab25cq/ 生活全般です。
 
 連絡先
 
