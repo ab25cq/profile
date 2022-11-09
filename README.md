@@ -481,6 +481,10 @@ WORK FOR FREEDOM.そして、毒ガス室行き（喫煙所行き）
 
 世の中そんなもんです。
 
+アドリブ小説
+
+https://github.com/ab25cq/tako
+
 大学時代の英語のレジュメ
 
 About Me
