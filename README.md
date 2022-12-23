@@ -57,6 +57,10 @@ C言語は３０年使っています。
 
 https://github.com/ab25cq 趣味のコーディングの成果物をアップロードしている場です。
 
+https://github.com/ab25cq/neo-c モダンなCコンパイラです。
+
+https://github.com/ab25cq/clover2 RubyみたいなJavaみたいなオリジナルの言語です。PowerShellのようにインタラクティブに使えてシェルのように使えます。ある意味次世代のシェルです。
+
 https://www.facebook.com/profile.php?id=100005394647557 生活全般を書いてます。
 
 https://www.instagram.com/ab25cq/ 生活全般です。
