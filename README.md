@@ -41,7 +41,7 @@ TVは掛かっていたら見る派でそれほどみません。ニュースく
 
 所有物
 
-持ち家（京都府。亀岡市の中古物件） バイク(SUZUKI アドレス125) 車(DAIHATSU ミラ イース) パソコン(Lenovo Thinkpad x250, Apple Mac Book Air) スマホ (Apple iPhoneSE3, Gemini PDA)
+持ち家（京都府。亀岡市の中古物件） バイク(SUZUKI アドレス125) 車(DAIHATSU ミラ イース) パソコン(Lenovo Thinkpad x250, Apple Mac Book Air) スマホ (Apple iPhoneSE3, Blackberry KEY2)
 
 趣味
 
