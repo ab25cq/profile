@@ -51,6 +51,8 @@ C言語は３０年使っています。
 
 大学でUNIXを学んでからはゲーム作りは諦めてずっとUNIXプログラミングをしています。mfiler2というコンソールファイラは2chで話題になったりしました。その後xyzshというシェル、Clover2というVM形式のコンパイラを作ってました。
 
+大学では講演に来ていたRichard Stallmanにお会いしたことがあります。
+
 今はneo-cというモダンなCコンパイラを作っています。neo-cではvinというviクローン、zedというテキスト処理言語、shshという1000シェル、mfというコンソールファイラを作りました。フリーソフトウェア作成はもう十分やりきった思うので、ご隠居生活です。
 
 アカウント
@@ -64,6 +66,8 @@ https://github.com/ab25cq/clover2 RubyみたいなJavaみたいなオリジナ�
 https://www.facebook.com/profile.php?id=100005394647557 生活全般を書いてます。
 
 https://www.instagram.com/ab25cq/ 生活全般です。
+
+https://twitter.com/ab25cq 行動記録です。
 
 連絡先
 
