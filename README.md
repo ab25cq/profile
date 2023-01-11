@@ -67,8 +67,6 @@ https://www.facebook.com/profile.php?id=100005394647557 生活全般を書いて
 
 https://www.instagram.com/ab25cq/ 生活全般です。
 
-https://twitter.com/ab25cq 行動記録です。
-
 連絡先
 
 ab25cq@icloud.comに連絡ください。
