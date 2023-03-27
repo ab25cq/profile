@@ -55,13 +55,13 @@ C言語は３０年使っています。
 
 大学では講演に来ていたRichard Stallmanにお会いしたことがあります。
 
-今はneo-cというモダンなCコンパイラを作っています。neo-cではvinというviクローン、zedというテキスト処理言語、shshという1000シェル、mfというコンソールファイラ、yappyというPythonクローン（途中まで）を作りました。
+今はcomelangというモダンなコンパイラを作っています。comelangではvinというviクローン、zedというテキスト処理言語、shshという1000シェル、mfというコンソールファイラ、yappyというPythonクローン（途中まで）、gogoというLLCM-Cコンパイラ（途中まで）を作りました。
 
 アカウント
 
 https://github.com/ab25cq 趣味のコーディングの成果物をアップロードしている場です。
 
-https://github.com/ab25cq/neo-c モダンなCコンパイラです。
+https://github.com/ab25cq/comelang モダンなコンパイラです。
 
 https://github.com/ab25cq/clover2 RubyみたいなJavaみたいなオリジナルの言語です。PowerShellのようにインタラクティブに使えてシェルのように使えます。ある意味次世代のシェルです。
 
