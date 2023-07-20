@@ -45,11 +45,11 @@ TVは掛かっていたら見る派でそれほどみません。ニュースく
 
 所有物
 
-持ち家（京都府。亀岡市の中古物件） バイク(SUZUKI アドレス125) 車(DAIHATSU ミラ イース) パソコン(Think pad x250, Apple Mac Book Air(M1)) スマホ (Apple iPhoneSE3, Sharp AQUOS)
+持ち家（京都府。亀岡市の中古物件） バイク(SUZUKI アドレス125) 車(DAIHATSU ミラ イース) パソコン(Apple Mac Book Air(M1)) スマホ (Apple iPhoneSE3)
 
 趣味
 
-13歳くらいからコンピュータをしていてPanasonic MSX turbo R, NEC PC-9821DA MS-DOS, 自作PC Windows、MacBook&Thinkpadと使ってきました。子供のころからゲームが作りたくてプログラミングをずっとやってました。
+13歳くらいからコンピュータをしていてPanasonic MSX turbo R, NEC PC-9821DA MS-DOS, 自作PC Windows、MacBookと使ってきました。子供のころからゲームが作りたくてプログラミングをずっとやってました。
 
 C言語は３０年使っています。
 
