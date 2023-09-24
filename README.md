@@ -15,7 +15,7 @@
 
 タバコを吸っています。アイコスを吸っています。
 
-酒は飲めますが、辞めました。たまに飲んでます。
+酒は飲めますが、辞めました。たまに飲んでます。最近はまた飲んでます。
 
 好きな食べ物はラーメンです。
 
@@ -45,7 +45,7 @@ TVは掛かっていたら見る派でそれほどみません。ニュースく
 
 所有物
 
-持ち家（京都府。亀岡市の中古物件） バイク(SUZUKI アドレス125) 車(DAIHATSU ミラ イース) パソコン(Apple Mac Book Air(M1)) スマホ (Apple iPhoneSE3)
+持ち家（京都府。亀岡市の中古物件） バイク(SUZUKI アドレス125) 車(DAIHATSU ミラ イース) パソコン(Apple Mac Book Air(M1)) スマホ (Apple iPhone14Plus)
 
 趣味
 
@@ -57,7 +57,7 @@ C言語は３０年使っています。
 
 大学では講演に来ていたRichard Stallmanにお会いしたことがあります。
 
-comelangというモダンなコンパイラを作っています。comelangではvinというviクローン、zed,zed2というテキスト処理言語、shshという1000シェル、mfというコンソールファイラ、yappyというPythonクローン（途中まで）、gogoというLLCM-Cコンパイラ（途中まで）を作りました。自作のviクローンとcomelangでcomelang2を作っています。
+comelangというモダンなコンパイラを作っています。comelangではvinというviクローン、zed,zed2というテキスト処理言語、shshという1000シェル、mfというコンソールファイラ、yappyというPythonクローン（途中まで）、gogoというLLCM-Cコンパイラ（途中まで）を作りました。今はcomelangと自作のviクローンでcomelang2を作っています。
 
 アカウント
 
@@ -74,6 +74,8 @@ https://github.com/ab25cq/mfiler4 2画面コンソールファイラです。
 https://www.facebook.com/profile.php?id=100005394647557 生活全般を書いてます。
 
 https://www.instagram.com/ab25cq/ 生活全般です。
+
+https://twitter.com/ab25cq/ 下ネタや毒吐きなどなんでもありです。酔っ払ってポストするのが好きです。
 
 連絡先
 
