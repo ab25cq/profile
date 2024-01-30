@@ -48,8 +48,8 @@ TVは掛かっていたら見る派でそれほどみません。ニュースく
 
 所有物
 
-持ち家（京都府。亀岡市の中古物件） バイク(SUZUKI アドレス125) 車(DAIHATSU ミラ イース) パソコン(GPD Pocket2) スマホ ()
-(Sharp AQUOS sense4)
+持ち家（京都府。亀岡市の中古物件） バイク(SUZUKI アドレス125) 車(DAIHATSU ミラ イース) パソコン(Mac Book Air M1(故障中), GPD Pocket2, Thinkpad) スマホ (iPhone14 Plus)
+
 趣味
 
 13歳くらいからコンピュータをしていてPanasonic MSX turbo R, NEC PC-9821DA MS-DOS, 自作PC Windows、MacBookと使ってきました。子供のころからゲームが作りたくてプログラミングをずっとやってました。
