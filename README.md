@@ -83,7 +83,7 @@ https://www.instagram.com/ab25cq/ 生活全般です。
 
 連絡先
 
-ab25cq@gmail.comに連絡ください。
+ab25cq@icloud.comに連絡ください。
 
 つぶやき
 
